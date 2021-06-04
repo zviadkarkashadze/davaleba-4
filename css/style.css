@@ -37,6 +37,7 @@
 	width: 355px;
 	display: inline-block;
 	vertical-align: middle;
+	font-family: 'Roboto Mono';
 }
 
 .line {
@@ -79,9 +80,11 @@
 #contactinfo {
 	font-size: 20px;
 	color: #3D58A6;
+	font-family: "BPG Arial Caps", sans-serif;
 }
 .span1 {
 	color: #808080;
+	font-family: 'BPG Nino Elite Exp Caps';
 }
 .map {
 	width: 850px;
@@ -113,6 +116,13 @@
 }
 .h2 {
 	font-size: 24px;
+	font-family: 'Odibee Sans', cursive;
+}
+.h3 {
+	font-family: 'Odibee Sans', cursive;
+}
+.h4 {
+	font-family: 'Odibee Sans', cursive;
 }
 .fb {
 	margin-top: 31.7px;
@@ -129,4 +139,7 @@
 
 .texthead {
 	font-family: "BPG Arial Caps", sans-serif;
+}
+.textfont {
+	font-family: 'BPG Nino Elite Exp Caps';
 }

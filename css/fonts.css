@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BPG Nino Elite Exp Caps';
+    src: url('../fonts/bpg-nino-elite-exp-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-nino-elite-exp-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-nino-elite-exp-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-nino-elite-exp-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-nino-elite-exp-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-nino-elite-exp-caps-webfont.svg#bpg_nino_elite_exp_capsregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('../fonts/RobotoMono-BoldItalic.eot');
+    src: url('../fonts/RobotoMono-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/RobotoMono-BoldItalic.woff2') format('woff2'),
+         url('../fonts/RobotoMono-BoldItalic.woff') format('woff'),
+         url('../fonts/RobotoMono-BoldItalic.svg#RobotoMono-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
